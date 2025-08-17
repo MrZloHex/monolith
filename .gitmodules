@@ -1,0 +1,15 @@
+[submodule "ws-shards/luch"]
+	path = ws-shards/luch
+	url = git@github.com:MrZloHex/luch.git
+[submodule "ws-shards/concentrator"]
+	path = ws-shards/concentrator
+	url = git@github.com:MrZloHex/concentrator.git
+[submodule "hw-shards/vertex"]
+	path = hw-shards/vertex
+	url = git@github.com:MrZloHex/vertex.git
+[submodule "hw-shards/obelisk"]
+	path = hw-shards/obelisk
+	url = git@github.com:MrZloHex/obelisk.git
+[submodule "servers/tma"]
+	path = servers/tma
+	url = git@github.com:MrZloHex/tma.git
