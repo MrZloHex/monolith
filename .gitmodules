@@ -13,3 +13,9 @@
 [submodule "servers/tma"]
 	path = servers/tma
 	url = git@github.com:MrZloHex/tma.git
+[submodule "ws-shards/vox"]
+	path = ws-shards/vox
+	url = git@github.com:MrZloHex/vox.git
+[submodule "ws-shards/achtung"]
+	path = ws-shards/achtung
+	url = git@github.com:MrZloHex/achtung.git
