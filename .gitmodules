@@ -19,3 +19,6 @@
 [submodule "ws-shards/achtung"]
 	path = ws-shards/achtung
 	url = git@github.com:MrZloHex/achtung.git
+[submodule "ws-shards/governor"]
+	path = ws-shards/governor
+	url = git@github.com:MrZloHex/governor.git

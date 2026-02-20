@@ -25,6 +25,7 @@
     luch/          → Telegram interface                                     [submodule]
     vox/           → Voice control system                                   [submodule]
     achtung/       → Manager of alarms and timers                           [submodule]
+    governor/      → Manager of schedule and deadlines                      [submodule]
   servers/                                                                  
     tma/           → WebSocket server, gateway for Obelisk                  [depricated | submodule]
 
